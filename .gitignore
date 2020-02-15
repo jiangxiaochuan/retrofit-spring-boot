@@ -1,0 +1,5 @@
+.idea/
+*.orig
+*.iml
+target/
+log/
