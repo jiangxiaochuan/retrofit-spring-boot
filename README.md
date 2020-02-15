@@ -1,2 +1,2 @@
-# retrofit-spring-boot-starter
-easy user retrofit in Spring Boot
+# retrofit Spring Boot
+easy use retrofit in Spring Boot or Spring
